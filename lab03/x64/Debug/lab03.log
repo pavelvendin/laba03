@@ -1,0 +1,5 @@
+﻿  lab03.cpp
+C:\Users\pvend\OneDrive\Рабочий стол\lab03\lab03\lab03.cpp(101,43): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\pvend\OneDrive\Рабочий стол\lab03\lab03\lab03.cpp(106,82): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\pvend\OneDrive\Рабочий стол\lab03\lab03\lab03.cpp(115,99): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+  lab03.vcxproj -> C:\Users\pvend\OneDrive\Рабочий стол\lab03\x64\Debug\lab03.exe
